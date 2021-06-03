@@ -4,7 +4,7 @@ Author: Tiffany Timbers
 
 This repository is a demonstration of how to use [Jupyter](https://jupyter.org/index.html) and [nbgrader](https://nbgrader.readthedocs.io/en/stable/) for autograding R assignments.
 
-Talk slides: [ttimbers.github.io/jupyter-nbgrader-r](https://ttimbers.github.io/jupyter-nbgrader-r/)
+Talk slides: [ttimbers.github.io/jupyter-nbgrader-r/slides/jupyter-nbgrader-r.html](https://ttimbers.github.io/jupyter-nbgrader-r/slides/jupyter-nbgrader-r.html)
 
 There are two different ways you can interact with this demo:
 
