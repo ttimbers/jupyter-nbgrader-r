@@ -4,6 +4,8 @@ Author: Tiffany Timbers
 
 This repository is a demonstration of how to use [Jupyter](https://jupyter.org/index.html) and [nbgrader](https://nbgrader.readthedocs.io/en/stable/) for autograding R assignments.
 
+Talk slides: [ttimbers.github.io/jupyter-nbgrader-r](https://ttimbers.github.io/jupyter-nbgrader-r/)
+
 There are two different ways you can interact with this demo:
 
 1. [See a student-like experience via a notebook with persistant storage (Google authentication required)](https://cybera.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fttimbers%2Fjupyter-nbgrader-r&branch=master&urlpath=tree%2Fjupyter-nbgrader-r%2Frelease%2Fworksheet_01_r%2Fworksheet_01_r.ipynb)
@@ -148,6 +150,10 @@ jupyter nbextension install --sys-prefix --py nbgrader --overwrite
 jupyter nbextension enable --sys-prefix --py nbgrader
 jupyter serverextension enable --sys-prefix --py nbgrader
 ```
+
+## Attribution
+- slides and example derived from a talk given by Mine Çetinkaya-Rundel 
+(University of Edinburgh, Duke University, RStudio) & myself at ECOTS 2020: [bit.ly/feed-me-back](https://bit.ly/feed-me-back)
 
 ## License
 License: CC-BY 4.0 International
