@@ -11,9 +11,6 @@ test_2.1 <- function(){
     test_that('Solution is incorrect, the readr package needs to be loaded. Try doing this with the library function.', {
         expect_true("package:readr" %in% search())
         })
-    test_that('Solution is incorrect, the tidyr package needs to be loaded. Try doing this with the library function.', {
-        expect_true("package:tidyr" %in% search())
-        })
 print("Success!")
     }
 
